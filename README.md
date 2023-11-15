@@ -1,4 +1,4 @@
-### h1 Hello, I'm Vasile! 👋
+### Hello, I'm Vasile! 👋
 
 ## About Me
 
