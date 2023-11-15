@@ -18,7 +18,7 @@
 
 ## Personal Preferences
 
-- ☀️ **Favorite Weather:** I love sunny days and warmth! Not a fan of cold or winter.
+- ☀️ **Favorite Weather:** I love sunny days and warmth!
 - ❄️ **Not a Fan Of:** Cold and winter.
 
 ## Fun Fact
