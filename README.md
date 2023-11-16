@@ -19,15 +19,12 @@
 ## Personal Preferences
 
 - ☀️ **Favorite Weather:** I love sunny days and warmth!
-- ❄️ **Not a Fan Of:** Cold and winter.
-
-## Fun Fact
-
+- ❄️ **Not a Fan Of:** Cold and winter. 
 - 🎶 **Musical Pursuits:** Currently perfecting my electric guitar skills. Share your favorite music recommendations — I'm all ears!
 
 ## Get In Touch
 
-- 📫 **Contact:** [gota.vasile@gmail.com]
+- 📫 **Contact:** 
 - 🌐 **GitHub:**  [https://github.com/got4v]
 
 
